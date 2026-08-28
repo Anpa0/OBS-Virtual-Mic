@@ -1,6 +1,6 @@
 # OBS Virtual Mic for Linux
 
-**Beta 0.3.3** · Linux only · OBS Studio 32.x
+Linux only · OBS Studio 32.x
 
 A plugin that adds a **Start Virtual Mic** button to the OBS **Controls** dock, directly below **Start Virtual Camera**.
 
