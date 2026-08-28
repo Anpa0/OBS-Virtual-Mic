@@ -1,0 +1,9 @@
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/obs-virtual-mic.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/edit_cache.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/rebuild_cache.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/list_install_components.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/install.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/install/local.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/install/strip.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/obs-virtual-mic_autogen_timestamp_deps.dir
+/home/anp0w/Documents/OBS Virtual Mic/build/CMakeFiles/obs-virtual-mic_autogen.dir
