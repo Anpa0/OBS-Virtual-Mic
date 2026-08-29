@@ -101,7 +101,7 @@ Tracks 1–5 are never modified.
 
 ## Installation
 
-Most users do **not** need to build the plugin. Download the latest prebuilt Linux archive from the project's **Releases** section; it already contains the expected OBS directory structure:
+Download the latest prebuilt Linux archive from the project's **Releases** section; it already contains the expected OBS directory structure:
 
 ```text
 obs-virtual-mic/
